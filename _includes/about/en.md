@@ -8,7 +8,7 @@ However, I only tried these so-called interests briefly and didn't maintain any 
 
 Later I learned that interest is generated when you are familiar with something. Just a quick flash of inspiration isn't enough to keep you motivated long-term. Understanding and proficiency can do it. The beginning of interest does not even require any impulse or love at first sight, just a false psychological hint.
 
-At the time, we had an elective course on control systems, and I thought: Well, this thing seems to be very popular and can make money in the future. So I began to suggest to myself:  I think I'd enjoy this, and I'm happy to work with equations and algorithms.
+At the time, we had an elective course on [control systems](https://isw.um.edu.mo/siwci/faces/courseDetailUG?courseCode=EMEN3002), and I thought: Well, this thing seems to be very popular and can make money in the future. So I began to suggest to myself:  I think I'd enjoy this, and I'm happy to work with equations and algorithms.
 
 As it terns out, I am right. I've come to enjoy control and control algorithms. Now, I can spend an afternoon and an evening in front of the computer just to understand how an algorithm is derived and implemented. I am very glad that this interest can persist until now, and I hope I can continue to persist.
 
