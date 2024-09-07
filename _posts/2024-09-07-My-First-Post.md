@@ -3,7 +3,7 @@ layout:     post
 title:      "Hello World"
 subtitle:   " \ Words For Visitors\"
 author:     "Li Yinan"
-header-img: "img/post-bg-welcome.png"
+header-img: "img/post-bg-welcome.jpg"
 catalog: true
 onTop: true
 tags:
