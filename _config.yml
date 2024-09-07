@@ -72,7 +72,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "Want to learn controller design <br> EME @ University of Macau"
-sidebar-avatar: img/profile.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/mgt-lya/mgt-lya.github.io/blob/master/img/profile.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
