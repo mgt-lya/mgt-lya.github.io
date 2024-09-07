@@ -1,8 +1,6 @@
-Hello, I am Li Yinan. I study [mechanical engineering](https://www.fst.um.edu.mo/eme/) in [University of Macau](https://www.um.edu.mo/) as a year 4 student.
+Hello, I am Li Yinan, I come from a small city in Guangdong province, China. Currently I'm studying [mechanical engineering](https://www.fst.um.edu.mo/eme/) in [University of Macau](https://www.um.edu.mo/) as a year 4 student.
 
-I consider myself a person who always ready to change my current behavior style and pattern.No matter whether it is good or bad, and no matter how much time and energy it will take, as long as there is an impulse, even if it is a sudden idea, I am willing to try it.
-
-Therefore, over the past few years, I've been making some changes to my personal life and academic, in order to figure out what really interests me. I tried to learn new languages, tried to learn painting, and even tried to skip many classes, just want to stay up late before exams to review in an extreme condition--- because I want to see how high my so-called "talent" was.
+Over the past few years, I've been making some changes to my personal life and academic, in order to figure out what really interests me. I tried to learn new languages, tried to learn painting, and even tried to skip many classes, just want to stay up late before exams to review in an extreme condition--- because I want to see how high my so-called "talent" was. I consider myself a person who always ready to change my current behavior style and pattern.No matter whether it is good or bad, and no matter how much time and energy it will take, as long as there is an impulse, even if it is a sudden idea, I am willing to try it.
 
 However, I only tried these so-called interests briefly and didn't maintain any of them to be long-term. I've been a bit confused at that period, which is the summer break of my year 2. I'm not sure what I should and what I can do. I do know that I want to make a lot of money and settle down in big cities. I used to think these were my interests. But when I tried to make a plan based on these "interests," I couldn't make any detail about it. I was pretty lost and depressed at the time.
 
