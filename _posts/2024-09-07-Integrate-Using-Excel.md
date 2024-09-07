@@ -14,9 +14,7 @@ tags:
 ## Problem Setup
 This first project is not too difficult. Here let's try to solve an easy integral.
 $
-\begin{center}
 \int_{0}^{\frac{\pi}{2}} \frac{1}{1+sint} dt
-\end{center}
 $
 
 Analytically, we can substitute $x=tan\frac{t}{2}$ to solve the problem.
