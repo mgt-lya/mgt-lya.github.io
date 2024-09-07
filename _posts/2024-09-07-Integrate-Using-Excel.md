@@ -6,6 +6,7 @@ author:     "Li Yinan"
 header-img: "img/post-integration-excel.jpg"
 catalog: true
 mathjax: true
+pdf: false
 tags:
     - Excel
     - Math
