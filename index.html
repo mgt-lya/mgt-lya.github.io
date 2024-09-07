@@ -35,6 +35,18 @@ description: "「Things I value the most: family, friends, and fortune」"
 {% endif %}
 {% endfor %}
 
+<!-- jquery.tagcloud.js -->
+<script>
+    async('/js/jquery.tagcloud.js', function () {
+        $.fn.tagcloud.defaults = {
+            //size: {start: 1, end: 1, unit: 'em'},
+            color: { start: '#bbbbee', end: '#2f93b4' },
+        };
+        $('#tag_cloud a').tagcloud();
+    })
+</script>
+<script src='/js/archive.js '></script>
+
 {% for post in paginator.posts %}
 {% if post.onTop != true %}
 <div class="post-preview">
