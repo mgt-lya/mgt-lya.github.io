@@ -43,14 +43,14 @@ layout: default
                 </ul>
                 <hr style="visibility: hidden;">
 
-                {% if site.utteranc_username %}
-                <!-- utteranc 评论框 start -->
+                {% if site.disqus_username %}
+                <!-- disqus 评论框 start -->
                 <div class="comment">
-                    <div id="utteranc_thread" class="utteranc_thread">
+                    <div id="disqus_thread" class="disqus_thread">
 
                     </div>
                 </div>
-                <!-- utteranc 评论框 end -->
+                <!-- disqus 评论框 end -->
                 {% endif %}
 
             </div>
@@ -95,16 +95,21 @@ layout: default
 </script>
 
 
-{% if site.utteranc_username %}
-<!-- utteranc 公共JS代码 start (一个网页只需插入一次) -->
-<script src="https://utteranc.es/client.js"
-        repo="mgt-lya.github.io"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
+{% if site.disqus_username %}
+<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = "{{site.disqus_username}}";
+    var disqus_identifier = "{{page.id}}";
+    var disqus_url = "{{site.url}}{{page.url}}";
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
 </script>
-<!-- utteranc 公共JS代码 end -->
+<!-- disqus 公共JS代码 end -->
 {% endif %}
 
 
