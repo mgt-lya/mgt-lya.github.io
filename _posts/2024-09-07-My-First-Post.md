@@ -5,7 +5,6 @@ subtitle:   " \ Words For Visitors\"
 date:       2024-09-07 14:00:00
 author:     "Li Yinan"
 header-img: "img/project/welcome.png"
-header-style: text
 catalog: true
 tags:
     - My Space
