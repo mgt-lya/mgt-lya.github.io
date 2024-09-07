@@ -56,7 +56,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-utteranc_username: mgt-lya
+disqus_username: mgt22222
 
 # Netease settings
 netease_comment: false
