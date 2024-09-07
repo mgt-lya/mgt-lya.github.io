@@ -31,7 +31,7 @@ Then, discretization of the equation into small element is required, which means
 ## Accumulation & Get The Answer
 Accumulation is used to simulate integration operation. In Excel, it can be realized by $\textbf{adding the new value to the current value.}$
 
-After finding the initial value of our integral(First cell in column C), increment in each time step needs to be determined. In the integration case, it is what insides of the integration symbol $\int$:  $\Delta y=f(t) \Delta t$. 
+After finding the initial value of our integral(First number in column C), increment in each time step needs to be determined. Here it is the part inside of integration symbol $\int$:  $\Delta y=f(t) \Delta t$. 
 
 ![](https://raw.githubusercontent.com/mgt-lya/mgt-lya.github.io/master/img/in-post/post-integration-excel/accumulation1.png)
 
