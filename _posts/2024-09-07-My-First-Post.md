@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Hello World
+title:      "Hello World"
 subtitle:   " \ Words For Visitors\"
 author:     "Li Yinan"
 header-img: "img/project/welcome.png"
