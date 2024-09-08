@@ -16,6 +16,7 @@ let's try to solve an easy integral.
 $
 \int_{0}^{\frac{\pi}{2}} \frac{1}{1+sint} dt
 $
+
 The traditional method is to substitute $x=tan\frac{t}{2}$ to solve the problem.
 
 ## Preperations
